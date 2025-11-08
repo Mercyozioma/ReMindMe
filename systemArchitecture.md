@@ -87,6 +87,8 @@ Below is the system architecture diagram showing the overall workflow:
 
 [ReMindMe System Architecture](<ReMindMe Architecture Diagram.png>)
 
+[ReMindMe Architecture on Figma](https://www.figma.com/design/x1LpliDs0SSlYyNN9pm2ng/HNG-PROJECTS?node-id=0-1&t=g3ueDqgxZMjfuC3P-1)
+
 ---
 
 ## 6. Why This Approach Is Technically Feasible
@@ -103,5 +105,3 @@ Below is the system architecture diagram showing the overall workflow:
 
 ## 7. Summary
 The ReMindMe architecture leverages more on a modular, scalable, and API-driven design that ensures seamless synchronization between devices and platforms. It is lightweight, efficient, and built to grow with user needs, supporting everything from simple time-based reminders to intelligent context aware memory recall.
-
-
