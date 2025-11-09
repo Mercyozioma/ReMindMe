@@ -14,6 +14,18 @@ The system integrates with external APIs and cloud services like **Firebase Clou
 
 ---
 
+## Technical Stack
+
+| Component      | Technology/Tool                        |
+|----------------|---------------------------------------|
+| Frontend       | React Native                           |
+| Backend        | Node.js, Express                       |
+| Database       | PostgreSQL                             |
+| Notifications  | Firebase Cloud Messaging (FCM)        |
+| Caching        | Redis                                  |
+| Integrations   | OAuth2, Platform APIs (WhatsApp, Slack, Telegram, Gmail, Google Calendar) |
+| AI Processing  | Custom AI categorization engine        |
+
 ## 2. Architectural Layers
 
 ### **Frontend Layer (React Native)**
@@ -89,6 +101,8 @@ Below is the system architecture diagram showing the overall workflow:
 
 [ReMindMe Architecture on Figma](https://www.figma.com/design/x1LpliDs0SSlYyNN9pm2ng/HNG-PROJECTS?node-id=0-1&t=g3ueDqgxZMjfuC3P-1)
 
+[![ReMindMe System Architecture](ReMindMe Architecture Diagram.png)](ReMindMe Architecture Diagram.png)
+> Click the image to view full size.
 ---
 
 ## 6. Why This Approach Is Technically Feasible
